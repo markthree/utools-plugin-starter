@@ -1,0 +1,16 @@
+{
+	"main": "index.html",
+	"logo": "logo.png",
+	"preload": "preload.js",
+	"development": {
+		"main": "http://127.0.0.1:3000"
+	},
+	"features": [
+		{
+			"code": "唯一标识",
+			"explain": "启动模板",
+			"cmds": ["starter"],
+			"icon": "logo.png"
+		}
+	]
+}

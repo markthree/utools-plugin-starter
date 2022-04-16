@@ -1,0 +1,19 @@
+{
+  "name": "utools-plugin-starter",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.24",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "utools-api-types": "^2.6.3",
+    "vite": "^2.9.2"
+  }
+}
